@@ -1,0 +1,28 @@
+{
+    "id": "545DF203",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1693491669726.0,
+    "source_on_save": false,
+    "relative_order": 9,
+    "properties": {
+        "id": "188f544b4c844ba6b96072b85257eac3",
+        "name": "gg",
+        "title": "gg",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 7810123700365321520,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1693491669726,
+    "read_only": false,
+    "read_only_alternatives": []
+}
